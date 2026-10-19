@@ -9,11 +9,12 @@
 
 # ¡Hola! Soy Matías Serrato 👋
 
-### Full Stack Developer en formación
+### 💻 Full Stack Developer en formación
 
 Construyendo aplicaciones web, explorando nuevas tecnologías y desarrollando soluciones mediante proyectos prácticos.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mis_repositorios-181717?style=for-the-badge&logo=github)](https://github.com/matiasserrato156-dotcom)
+[![Proyectos](https://img.shields.io/badge/Proyectos-Explorar-6C63FF?style=for-the-badge&logo=github)](https://github.com/matiasserrato156-dotcom?tab=repositories)
 
 </div>
 
@@ -24,8 +25,9 @@ Construyendo aplicaciones web, explorando nuevas tecnologías y desarrollando so
 - 💻 Enfocado en el desarrollo web Full Stack.
 - 🌱 Fortaleciendo mis habilidades en frontend, backend y bases de datos.
 - 🧩 Aprendiendo mediante el desarrollo de proyectos funcionales.
-- 🤖 Interesado en la inteligencia artificial y su aplicación en el desarrollo de software.
+- 🤖 Interesado en la inteligencia artificial y su aplicación al desarrollo de software.
 - 🎯 Mi objetivo es crear aplicaciones útiles, mantenibles y bien documentadas.
+- 🤝 Interesado en colaborar en proyectos y continuar creciendo como desarrollador.
 
 ---
 
@@ -54,34 +56,66 @@ Construyendo aplicaciones web, explorando nuevas tecnologías y desarrollando so
 
 ### 🤖 Inteligencia artificial
 
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 
-Interés en la inteligencia artificial, las herramientas de IA y su aplicación para desarrollar soluciones de software.
+Interesado en explorar herramientas de inteligencia artificial y su aplicación en el desarrollo de software.
 
-### 🔧 Herramientas y control de versiones
+### 🔧 Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos destacados
 
+### 🌱 [RAÍCES](https://github.com/matiasserrato156-dotcom/raices)
+
+Plataforma web colaborativa orientada a productos artesanales, desarrollada con tecnologías frontend y backend.
+
+**Tecnologías:** React, JavaScript, PHP y Laravel.
+
 ### 📚 BiblioSENA
 
-Proyecto de biblioteca en desarrollo.
+Proyecto de biblioteca en desarrollo. La descripción técnica y las tecnologías se completarán según su implementación real.
 
-- **Objetivo:** desarrollar una solución web para gestionar información de una biblioteca.
-- **Tecnologías:** se especificarán según la implementación real.
-- **Repositorio:** [Explorar mis repositorios](https://github.com/matiasserrato156-dotcom?tab=repositories)
+[Explorar repositorios](https://github.com/matiasserrato156-dotcom?tab=repositories)
 
-### 🌐 Otros proyectos
+### 💡 Más proyectos
 
-Desarrollo de páginas web y aplicaciones como parte de mi formación práctica.
+Explora mis repositorios para conocer otras aplicaciones, prácticas y proyectos desarrollados durante mi formación.
 
-Puedes consultar mis repositorios para conocer mis proyectos y su evolución.
+<div align="center">
 
-[![Ver repositorios](https://img.shields.io/badge/Explorar-proyectos-0A66C2?style=for-the-badge&logo=github)](https://github.com/matiasserrato156-dotcom?tab=repositories)
+[![Explorar proyectos](https://img.shields.io/badge/EXPLORAR-MIS_PROYECTOS-6C63FF?style=for-the-badge&logo=github)](https://github.com/matiasserrato156-dotcom?tab=repositories)
+
+</div>
+
+---
+
+## 📊 Mi actividad en GitHub
+
+<div align="center">
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=matiasserrato156-dotcom&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=matiasserrato156-dotcom&layout=compact&theme=tokyonight&hide_border=true)
+
+![Racha de contribuciones](https://streak-stats.demolab.com?user=matiasserrato156-dotcom&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Mi recorrido de contribuciones
+
+<div align="center">
+
+![Animación de contribuciones](https://raw.githubusercontent.com/matiasserrato156-dotcom/matiasserrato156-dotcom/output/snake.svg)
+
+</div>
 
 ---
 
@@ -99,10 +133,8 @@ Puedes consultar mis repositorios para conocer mis proyectos y su evolución.
 
 - **GitHub:** [@matiasserrato156-dotcom](https://github.com/matiasserrato156-dotcom)
 
----
-
 <div align="center">
 
-*Aprendiendo, construyendo y mejorando un proyecto a la vez.* 🚀
+### ✨ Aprendiendo, construyendo y mejorando un proyecto a la vez. 🚀
 
 </div>
